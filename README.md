@@ -9,13 +9,13 @@ Actualmente, busco oportunidades en el mercado IT en las áreas de Data Analytic
 
 ## 💼 Experiencia Profesional  
 
-### **Familia Zuccardi** *(Octubre 2024 - Actualidad)*  
+### **Familia Zuccardi**   
 **Analista de Insumos Críticos**  
 - Optimización de procesos y generación de reportes enfocados en el rendimiento y mantenimiento de equipos de producción.  
 - Reducción de la probabilidad de paradas en la planta en un **20%** mediante el análisis y clasificación de insumos críticos.  
 - Implementación de estrategias para depurar registros de insumos en desuso en el ERP Oracle, mejorando la eficiencia de la gestión de datos.  
 
-### **S-Cars** *(Julio 2023 - Actualidad)*  
+### **S-Cars**   
 **Co-Founder**  
 - Diseño y desarrollo de la base de datos de la empresa utilizando **SQL Server**, optimizando procesos de almacenamiento y análisis.  
 - Creación de dashboards interactivos para reportes de ventas y calificación de compradores, mejorando la toma de decisiones estratégicas.  
@@ -35,7 +35,8 @@ Actualmente, busco oportunidades en el mercado IT en las áreas de Data Analytic
 ## 🛠️ Habilidades  
 - **Python** 🐍: Pandas, Matplotlib, Seaborn, Numpy.  
 - **SQL Server** 🗄️.  
-- **Power BI** 📊.  
+- **Power BI** 📊.
+- **Streamlit**.  
 
 ---
 
