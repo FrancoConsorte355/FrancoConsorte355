@@ -1,3 +1,6 @@
+
+![Green and Black Futuristic SEO LinkedIn Banner (1)](https://github.com/user-attachments/assets/4f31d078-b567-4be9-be44-81786ec92e1c)
+
 # 🚀 ¡Hola, soy Franco Consorte! 👋  
 ¡Bienvenido a mi perfil de GitHub! Soy Ingeniero Industrial y Data Analyst apasionado por la tecnología y el análisis de datos. 🖥️  
 
