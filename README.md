@@ -1,52 +1,52 @@
 
 ![Green and Black Futuristic SEO LinkedIn Banner (1)](https://github.com/user-attachments/assets/4f31d078-b567-4be9-be44-81786ec92e1c)
 
-# 🚀 ¡Hola, soy Franco Consorte! 👋  
-¡Bienvenido a mi perfil de GitHub! Soy Ingeniero Industrial y Data Analyst apasionado por la tecnología y el análisis de datos. 🖥️  
+# 🚀 Hi, I'm Franco Consorte! 👋  
+Welcome to my GitHub profile! I’m an Industrial Engineer and Data Analyst passionate about technology and data analysis. 🖥️  
 
-## 🎓 Sobre mí  
-Soy Ingeniero Industrial graduado de la Universidad Nacional de Cuyo y completé el bootcamp en Data Analytics en Henry, donde perfeccioné mis habilidades en tecnologías emergentes y proyectos prácticos de ciencia de datos.  
-Actualmente, busco oportunidades en el mercado IT en las áreas de Data Analytics, Project Management o Data Science.  
+## 🎓 About Me  
+I am an Industrial Engineer graduated from the National University of Cuyo and completed the Data Analytics bootcamp at Henry, where I honed my skills in emerging technologies and hands-on data science projects.  
+I am currently seeking opportunities in the IT market in Data Analytics, Project Management, or Data Science.  
 
 ---
 
-## 💼 Experiencia Profesional  
+## 💼 Professional Experience  
 
 ### **Familia Zuccardi**   
-**Analista de Insumos Críticos**  
-- Optimización de procesos y generación de reportes enfocados en el rendimiento y mantenimiento de equipos de producción.  
-- Reducción de la probabilidad de paradas en la planta en un **20%** mediante el análisis y clasificación de insumos críticos.  
-- Implementación de estrategias para depurar registros de insumos en desuso en el ERP Oracle, mejorando la eficiencia de la gestión de datos.  
+**Critical Supplies Analyst**  
+- Optimized processes and created performance and maintenance-focused reports for production equipment.  
+- Reduced plant downtime probability by **20%** through critical supplies analysis and classification.  
+- Implemented strategies to purge unused supply records in the Oracle ERP, enhancing data management efficiency.  
 
 ### **S-Cars**   
-**Co-Founder**  
-- Diseño y desarrollo de la base de datos de la empresa utilizando **SQL Server**, optimizando procesos de almacenamiento y análisis.  
-- Creación de dashboards interactivos para reportes de ventas y calificación de compradores, mejorando la toma de decisiones estratégicas.  
-- Análisis de segmentación de clientes en campañas publicitarias, incrementando las consultas de usuarios en un **10%**.  
+**Data Analyst**  
+- Designed and developed the company’s database using **SQL Server**, streamlining storage and analysis processes.  
+- Created interactive dashboards for sales reporting and buyer evaluation, improving strategic decision-making.  
+- Conducted customer segmentation analysis for advertising campaigns, increasing user inquiries by **10%**.  
 
 ---
 
-## ✨ Intereses  
-- Diseño de modelos predictivos.  
-- Análisis de datos descriptivo y avanzado.  
-- Visualización de datos interactiva.  
-- Elaboración y supervisión de proyectos de análisis.  
-- Consultoría en la implementación de herramientas de Business Intelligence y tecnologías emergentes.  
+## ✨ Interests  
+- Designing predictive models.  
+- Descriptive and advanced data analysis.  
+- Interactive data visualization.  
+- Developing and supervising analytics projects.  
+- Consulting on implementing Business Intelligence tools and emerging technologies.  
 
 ---
 
-## 🛠️ Habilidades  
+## 🛠️ Skills  
 - **Python** 🐍: Pandas, Matplotlib, Seaborn, Numpy.  
 - **SQL Server** 🗄️.  
-- **Power BI** 📊.
+- **Power BI** 📊.  
 - **Streamlit**.  
 
 ---
 
-## 📬 Contacto  
-📧 **Correo electrónico:** [francoconsorte@gmail.com](mailto:francoconsorte@gmail.com)  
+## 📬 Contact  
+📧 **Email:** [francoconsorte@gmail.com](mailto:francoconsorte@gmail.com)  
 💼 **LinkedIn:** [Franco Augusto Consorte](https://www.linkedin.com/in/franco-augusto-consorte)  
 
-¡Hablemos! Estoy abierto a oportunidades laborales y colaboraciones en proyectos tecnológicos.
+Let’s connect! I’m open to job opportunities and collaborations on tech projects.
 
 
